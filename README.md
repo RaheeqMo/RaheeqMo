@@ -1,85 +1,56 @@
-### Hey 👋, I'm Jack Yu.
+### Hey 👋, I'm Raheeq.
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+<a href="https://www.linkedin.com/in/raheeq-mohamed-b784053ba/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/yzp-99/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+<a href="https://github.com/RaheeqMo">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
 </a>
 
 <br />
 <br />
 
-- I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
+* I am a **Computer Science student** who loves learning new things and building things.
+* I'm currently exploring **Data Analysis and AI**.
+* I also love **literature, reading and poetry**, especially Arabic literature. ✨
+* I used to dream of becoming a **media presenter**, but I chose programming instead. <br
+*  And honestly, I think I made the right choice. 🩷
+* I'm still exploring different areas of technology and discovering what I enjoy the most.
+* And of course... I love watching **YouTube** too. 😆
 
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
+<img align="right" alt="coding" width="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **JSU**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
-- 💬 If you have any questions, **just ask me**.
+* 👩‍💻 I am currently a student at **Arab Open University (AOU)**.
+* 💻 My major is **Computer Science**.
+* 🌱 I'm currently learning **Data Analysis and AI**.
+* 📊 I'm working with **Python, NumPy, Pandas and Scikit-learn**.
+* 📚 My hobbies are **reading, poetry and Arabic literature**.
+* 🎙️ I used to dream of becoming a **media presenter**.
+* 🛠️ I love **learning new things and building things**.
+* 💬 I enjoy discovering new ideas and technologies.
 
+**Languages and Tools:**
 
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/numpy.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pandas.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikitlearn.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaheeqMo&count_private=true&show_icons=true" alt="Raheeq" />
 
-**Languages and Tools:**  
+**Currently Learning**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pandas.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/numpy.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikitlearn.svg"></code>
 
-**Technology being learned**
+**Favorite Sites**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
 
-**Favorite sites**
+🌐 **Also exploring:**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-
+<a href="https://choicervoicer.games/">Choicer Voicer</a>
 
 📊 **My recent programming status:**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -88,4 +59,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-**If you like this readme file, please give me star! ❤️**
+**If you like this readme file, please give me a star! ❤️**
