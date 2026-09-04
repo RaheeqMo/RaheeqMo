@@ -14,7 +14,7 @@
 * I'm currently exploring **Data Analysis and AI**.
 * I also love **literature, reading and poetry**, especially Arabic literature. ✨
 * I used to dream of becoming a **media presenter**, but I chose programming instead. <br
-*  And honestly, I think I made the right choice. 🩷
+   And honestly, I think I made the right choice. 🩷
 * I'm still exploring different areas of technology and discovering what I enjoy the most.
 * And of course... I love watching **YouTube** too. 😆
 
