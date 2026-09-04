@@ -42,11 +42,10 @@
 
 **Favorite Sites**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg"></code> <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-
-🌐 **Also exploring:**
-
-<a href="https://choicervoicer.games/">Choicer Voicer</a>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg"></code>
+<code><a href="https://choicervoicer.games/"><img height="20" src="رابط-أيقونة-Choicer-Voicer"></a></code>
 
 📊 **My recent programming status:**
 
@@ -58,4 +57,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-**If you like this readme file, please give me a star! ❤️**
+
